@@ -10,10 +10,10 @@ preserveTaxonomyNames = true
 mainpagetitle = "internot.blog"
 
 # The subtitle to display under the title in the home page
-mainpagesubtitle = "Welcome to the internot!"
+mainpagesubtitle = "Welcome to the internot..."
 
 # The description of your website. It will be displayed in the home page
-mainpagedesc = "This theme is the Hugo port of the BOOTSTRA.386 theme for a cool retro look on your blog. Check the links below to access the posts."
+mainpagedesc = "A glimpse into a potential not-so-distant future of the internet."
 
 # The name to display in the copyright section in the footer
 copyrightname = "internot.blog"
@@ -22,7 +22,7 @@ copyrightname = "internot.blog"
 copyrighturl = "https://github.com/internot-blog"
 
 # Show the "built on Hugo" disclaimer
-showhugo = true
+showhugo = false
 
 # Urls for social networks
 #facebook = "https://facebook.com"
