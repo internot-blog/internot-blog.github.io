@@ -1,6 +1,13 @@
-**EDITORS NOTE: PLEASE DO NOT ATTEMPT TO JOIN THE COFFEE ALIEN TECHNOLOGY CULT!**
++++
+title = '"COFFEE TRUMPED UP"'
+description = "THE COFFEE ALIEN TECHNOLOGY CULT HAS ARRIVED, AND IT'S A CAFFEINE-FUELED DISASTER"
+tags = ["coffee", "aliens", "technology"]
+categories = ["technology"]
+date = 2024-09-14
+draft = false
++++
 
-# "COFFEE TRUMPED UP": THE COFFEE ALIEN TECHNOLOGY CULT HAS ARRIVED, AND IT'S A CAFFEINE-FUELED DISASTER
+**EDITORS NOTE: PLEASE DO NOT ATTEMPT TO JOIN THE COFFEE ALIEN TECHNOLOGY CULT!**
 
 In a shocking turn of events, former President Donald Trump has announced the launch of a new cult dedicated to the belief that coffee is an ancient alien technology. That's right, folks – Trump has convinced his die-hard followers that their morning joe is not just a pick-me-up, but a portal to another dimension.
 
