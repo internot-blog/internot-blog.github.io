@@ -3,7 +3,7 @@ title = "Jerma985 Reveals Shocking New Theory"
 description = "Moon Landing Was Just a Secret Mission to Colonize Mars"
 tags = ["elbertson", "one", "mars"]
 categories = ["and"]
-date = 2024-09-14
+date = 2024-09-09
 draft = false
 +++
 

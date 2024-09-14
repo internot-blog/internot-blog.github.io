@@ -3,7 +3,7 @@ title = "Taylor Swift's Moon-Shattering Plan"
 description = " A Bold New Initiative for the UN"
 tags = ["a", "the", "to"]
 categories = ["business"]
-date = 2024-09-14
+date = 2024-08-05
 draft = false
 +++
 

@@ -3,7 +3,7 @@ title = "Taylor Swift Joins Commune of Knit Sweater Creators and Blood Worshippe
 description = ""
 tags = ["taylor", "knit", "commune"]
 categories = ["planes"]
-date = 2024-09-14
+date = 2024-07-23
 draft = false
 +++
 

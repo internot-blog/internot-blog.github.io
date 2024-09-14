@@ -3,7 +3,7 @@ title = "Jerma985's New Fashion Line"
 description = "Historical Wardrobe Choices of People Who Never Existed"
 tags = ["jerma", "line", "fashion"]
 categories = ["the"]
-date = 2024-09-14
+date = 2024-08-01
 draft = false
 +++
 

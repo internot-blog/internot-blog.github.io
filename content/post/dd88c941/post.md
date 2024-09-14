@@ -3,7 +3,7 @@ title = "Alex Turner's Revolutionary Cloud-Watching Sport Takes the World by Sto
 description = ""
 tags = ["cloud", "watch", "of cloud"]
 categories = ["planes"]
-date = 2024-09-14
+date = 2024-07-27
 draft = false
 +++
 
