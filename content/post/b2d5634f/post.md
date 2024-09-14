@@ -27,5 +27,3 @@ You will also learn how to maintain proper chronology while traveling through di
 
 ## Enroll Today!
 What are you waiting for? Sign up now and start your journey into the fascinating world of time travel without having to worry about pesky things like physics or safety regulations. The future is yours - literally! So get ready to whisk away to whenever, wherever, with just some cooking utensils and Matty Healy's expert guidance.
-
-Remember: this post is purely hypothetical and satirical in nature.
