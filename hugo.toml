@@ -1,7 +1,7 @@
-baseURL = "http://internot.blog"
+baseURL = "https://internot.blog"
 title = "internot.blog"
 languageCode = "en"
-DefaultContentLanguage = "en"    # Change this to change the site's language
+DefaultContentLanguage = "en"     # Change this to change the site's language
 theme = "hugo.386"
 preserveTaxonomyNames = true
 
