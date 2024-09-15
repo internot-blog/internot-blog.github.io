@@ -19,7 +19,7 @@ mainpagedesc = "A glimpse into a potential not-so-distant future of the internet
 copyrightname = "internot.blog"
 
 # The url to use as link in the copyright name in the footer. Leave empty to use none.
-copyrighturl = "https://github.com/internot-blog"
+copyrighturl = "https://internot.blog"
 
 # Show the "built on Hugo" disclaimer
 showhugo = false
@@ -44,7 +44,7 @@ loadonepass = false
 name = "internot.blog"
 
 # The url to use as link in the copyright name in the footer. Leave empty to use none.
-url = "https://github.com/internot-blog"
+url = "https://internot.blog"
 
 # Text to go before copyright information
 #prefix = "[hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386)"
