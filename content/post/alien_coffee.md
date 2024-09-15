@@ -3,7 +3,7 @@ title = '"COFFEE TRUMPED UP"'
 description = "THE COFFEE ALIEN TECHNOLOGY CULT HAS ARRIVED, AND IT'S A CAFFEINE-FUELED DISASTER"
 tags = ["coffee", "aliens", "technology"]
 categories = ["technology"]
-date = 2024-09-14
+date = 2024-08-10
 draft = false
 +++
 

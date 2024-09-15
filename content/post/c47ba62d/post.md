@@ -3,7 +3,7 @@ title = "Pink Floyd's Unconventional Artistic Vision"
 description = "The Great Wall as a Universal Barcode for Interstellar Trade"
 tags = ["wall", "floyd", "pink"]
 categories = ["today"]
-date = 2024-09-14
+date = 2024-07-26
 draft = false
 +++
 

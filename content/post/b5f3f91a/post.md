@@ -3,7 +3,7 @@ title = "French Fashion Revolution"
 description = "Unveiling the Wardrobe of Never-Existed Heroes"
 tags = ["fashion", "never", "existed"]
 categories = ["today"]
-date = 2024-09-14
+date = 2024-07-15
 draft = false
 +++
 

@@ -3,7 +3,7 @@ title = "A Vegetable News Site's Time Dust Sculpture Project"
 description = "Revolutionizing Journalism One Piece at a Time"
 tags = ["time", "dust", "news"]
 categories = ["music"]
-date = 2024-09-14
+date = 2024-09-10
 draft = false
 +++
 

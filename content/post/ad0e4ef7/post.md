@@ -3,7 +3,7 @@ title = "Bjeck's Cosmic Odyssey"
 description = "A Journey Through the Psychedelic Soundscape of Two Iconic Artists"
 tags = ["bjeck", "music", "is"]
 categories = ["music"]
-date = 2024-09-14
+date = 2024-09-05
 draft = false
 +++
 

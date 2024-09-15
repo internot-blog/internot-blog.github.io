@@ -3,7 +3,7 @@ title = "A Historic Moment"
 description = "Mickey Mouse's Letter to the President"
 tags = ["mickey", "paperclip", "to the"]
 categories = ["the"]
-date = 2024-09-14
+date = 2024-07-23
 draft = false
 +++
 

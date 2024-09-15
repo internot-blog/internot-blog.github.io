@@ -3,7 +3,7 @@ title = "Joe Biden's Fantasy Retreat"
 description = "A Medieval Experience Like No Other"
 tags = ["experience", "biden", "joe"]
 categories = ["journalism"]
-date = 2024-09-14
+date = 2024-09-06
 draft = false
 +++
 

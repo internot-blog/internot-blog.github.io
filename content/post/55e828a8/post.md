@@ -3,7 +3,7 @@ title = "Matthew McConaughey Just spent 3 months in the Himalayas with Jack Dors
 description = ""
 tags = ["about", "programming"]
 categories = ["of"]
-date = 2024-09-14
+date = 2024-09-10
 draft = false
 +++
 
