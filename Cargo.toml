@@ -1,0 +1,10 @@
+[package]
+name = "main"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4"
+rand = "0.8"
+regex = "1.5"
+walkdir = "2.3"
