@@ -3,7 +3,7 @@ title = "Title**"
 description = "The Hidden Messages in Children's Cartoons"
 tags = ["hidden", "hillary", "children"]
 categories = ["journalism"]
-date = 2024-09-14
+date = 2024-09-08
 draft = false
 +++
 

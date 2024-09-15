@@ -3,7 +3,7 @@ title = "St"
 description = "Vincent's New Art Gallery"
 tags = ["is", "st vincent", "art"]
 categories = ["history"]
-date = 2024-09-14
+date = 2024-09-06
 draft = false
 +++
 

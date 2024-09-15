@@ -3,7 +3,7 @@ title = "Your New Personal Time Machine"
 description = "With Kitchen Utensils!"
 tags = ["time"]
 categories = ["why"]
-date = 2024-09-14
+date = 2024-08-10
 draft = false
 +++
 
