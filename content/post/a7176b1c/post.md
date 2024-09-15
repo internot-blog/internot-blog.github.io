@@ -3,7 +3,7 @@ title = "The Beatles"
 description = "A Staunch Defender of Airplane Door Integrity"
 tags = ["door", "beatles", "the beatles"]
 categories = ["music"]
-date = 2024-07-31
+date = 2024-07-23
 draft = false
 +++
 

@@ -3,7 +3,7 @@ title = "Trump Unveils Plan for Retro-Futuristic Spaceship-Style Public Transpor
 description = ""
 tags = ["trump", "transport", "public"]
 categories = ["pop-culture"]
-date = 2024-08-12
+date = 2024-08-26
 draft = false
 +++
 

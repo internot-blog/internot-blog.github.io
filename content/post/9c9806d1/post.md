@@ -3,7 +3,7 @@ title = "Unraveling the Mysteries"
 description = "The Beatles' Quest for Cinematic Wisdom"
 tags = ["the beatles", "beatles"]
 categories = ["pop-culture"]
-date = 2024-09-14
+date = 2024-09-10
 draft = false
 +++
 

@@ -3,7 +3,7 @@ title = "Title"
 description = "The Costar Group's Bold Proposal for a Paperclip Holiday"
 tags = ["paperclip", "day"]
 categories = ["drama"]
-date = 2024-08-27
+date = 2024-09-06
 draft = false
 +++
 

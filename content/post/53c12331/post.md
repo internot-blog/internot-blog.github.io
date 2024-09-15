@@ -3,7 +3,7 @@ title = "The Unlikely Duo of Bjeck"
 description = "Where Creativity Meets the Absurd"
 tags = ["bjeck", "album", "artists"]
 categories = ["engineering"]
-date = 2024-09-14
+date = 2024-08-25
 draft = false
 +++
 

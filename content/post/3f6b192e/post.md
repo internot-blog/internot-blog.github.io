@@ -3,7 +3,7 @@ title = "The Weeknd's Time Traveling VR Concert"
 description = "A Priceless Experience"
 tags = ["weeknd", "the weeknd", "it s"]
 categories = ["of"]
-date = 2024-09-14
+date = 2024-08-25
 draft = false
 +++
 

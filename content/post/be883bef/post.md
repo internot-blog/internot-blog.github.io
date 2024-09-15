@@ -3,7 +3,7 @@ title = "Pink Floyd and the Weather Wizards"
 description = "How Music Started Controlling the Skies"
 tags = ["weather", "wizards", "floyd"]
 categories = ["history"]
-date = 2024-07-19
+date = 2024-07-28
 draft = false
 +++
 

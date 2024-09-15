@@ -3,7 +3,7 @@ title = "Joe Biden"
 description = "A Revolutionary Force for Fictional Robot Statues"
 tags = ["biden", "robo", "new"]
 categories = ["of"]
-date = 2024-08-30
+date = 2024-09-10
 draft = false
 +++
 

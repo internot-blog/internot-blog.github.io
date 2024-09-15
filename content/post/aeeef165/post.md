@@ -3,7 +3,7 @@ title = "France Starts Research Group for Hidden Meanings in Movie Soundtracks"
 description = "Quoi?"
 tags = ["soundtracks", "hidden"]
 categories = ["today"]
-date = 2024-08-12
+date = 2024-08-21
 draft = false
 +++
 

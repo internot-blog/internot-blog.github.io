@@ -3,7 +3,7 @@ title = "Bjeck"
 description = "A Musical Odyssey"
 tags = ["musical", "bjeck", "is"]
 categories = ["cars"]
-date = 2024-09-14
+date = 2024-09-10
 draft = false
 +++
 

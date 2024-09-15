@@ -3,7 +3,7 @@ title = "The Rise of Alex Turner's \"Monkeys of the Cosmos\" Religion"
 description = "A Cosmic Journey Through Faith, Fashion, and Fancy"
 tags = ["of the", "monkeys", "turner"]
 categories = ["music"]
-date = 2024-08-05 15:54:56.875983133
+date = 2024-08-14 15:54:56.875983133
 draft = false
 +++
 

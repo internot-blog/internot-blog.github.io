@@ -3,7 +3,7 @@ title = "Fashion's Hidden Secrets Unveiled"
 description = "Lorde's Revolutionary Theory Exposed"
 tags = ["fashion", "lorde", "eternal youth"]
 categories = ["planes"]
-date = 2024-09-14
+date = 2024-08-26
 draft = false
 +++
 

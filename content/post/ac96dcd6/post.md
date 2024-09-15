@@ -3,7 +3,7 @@ title = "**The Literary Café"
 description = "Where Fictional Characters Take a Bite Out of Reality**"
 tags = ["literary", "café", "the literary"]
 categories = ["why"]
-date = 2024-09-09
+date = 2024-08-14
 draft = false
 +++
 

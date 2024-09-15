@@ -3,7 +3,7 @@ title = "The World Is Run by Future Humans"
 description = "A Popular Bipartisan Organization's Shocking Revelation"
 tags = ["future", "time", "humans"]
 categories = ["drama"]
-date = 2024-07-23
+date = 2024-07-26
 draft = false
 +++
 

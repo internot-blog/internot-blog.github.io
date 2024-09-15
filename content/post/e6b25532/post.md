@@ -3,7 +3,7 @@ title = "The Jerma985 Enigma"
 description = "A Deep Dive into His Obsession with Traffic Light Surveillance"
 tags = ["jerma985", "youtube", "traffic"]
 categories = ["why"]
-date = 2024-07-27
+date = 2024-07-26
 draft = false
 +++
 

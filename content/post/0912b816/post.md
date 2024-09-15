@@ -3,7 +3,7 @@ title = "The Beetroot Times Began Training Parrots for Cosmic Communications"
 description = ""
 tags = ["times began", "times", "began"]
 categories = ["why"]
-date = 2024-09-14
+date = 2024-08-10
 draft = false
 +++
 
